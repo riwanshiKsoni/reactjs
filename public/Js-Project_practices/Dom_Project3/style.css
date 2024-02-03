@@ -1,0 +1,17 @@
+body{
+    background-color: cadetblue;
+}
+span{
+    font-size: 30px;
+    font:1000;
+}
+#clock{
+font-size: 20px;
+    font: bolder;
+    background-color: rgb(165, 130, 42);
+    display: inline-block;
+    border-radius: 110px ;
+    border: 2px solid rgb(14, 2, 2);
+    padding: 5px;
+    /* padding: 100px;margin: 10px; */
+}
